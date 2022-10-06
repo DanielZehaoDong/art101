@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  font-size:250%;
+}
+p {
+  font-family: "Cursive"
+  text-indent: 20px
+  margin-left: 10px
+}
+
+#content {
+  background-color: #73beb0;
+  width: 500px;
+  min-height: 300px;
+  padding: 15px;
+  margin: 15px;
+  border: solid 1px #4a5969;
+  font-size: 20px;
+}
