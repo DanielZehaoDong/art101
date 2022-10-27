@@ -28,3 +28,10 @@ border-radius: 50px;
   border:solid 2px solid green;
   border-radius: 50px;
 }
+#output{
+  background-color: lightblue;
+  padding: 20px;
+  margin:5px;
+  border:2px solid green;
+  border-radius: 50px;
+}

@@ -22,3 +22,6 @@
  })
 
  console.log("Sum of array and 30: ", result);
+
+ var outputEl = document.getElementById("output");
+ outputEl.innerHTML = result;
