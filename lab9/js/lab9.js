@@ -21,5 +21,9 @@
  document.body.appendChild(new2El);
  var targetEl = document.getElementById("button");
  var buttonEl = document.createElement("button");
- targetEl.appendChild(buttonEl);
- buttonEl.innerHTML = "I am the button"
+  targetEl.appendChild(buttonEl);
+  buttonEl.innerHTML = "I am the button"
+  buttonEl.style.backgroundColor = "red";
+  buttonEl.style.fontSize = "30pt";
+  buttonEl.style.padding = "30px";
+  buttonEl.style.font = "italic bold 20px arial,serif";
