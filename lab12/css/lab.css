@@ -1,0 +1,37 @@
+#lab12challenges{
+color:#0000ff80;
+font-weight:bold;
+font-family: "Copperplate","Papyrus", fantasy;
+background-color: lightblue;
+padding: 15px;
+margin:5px;
+border:solid 2px solid green;
+border-radius: 50px;
+}
+#lab12problems{
+  color:#0000ff80;
+  font-weight:bold;
+  font-family: "Copperplate","Papyrus", fantasy;
+  background-color: lightblue;
+  padding: 15px;
+  margin:5px;
+  border:solid 2px solid green;
+  border-radius: 50px;
+}
+#lab12results{
+  color:#0000ff80;
+  font-weight:bold;
+  font-family: "Copperplate","Papyrus", fantasy;
+  background-color: lightblue;
+  padding: 15px;
+  margin:5px;
+  border:solid 2px solid green;
+  border-radius: 50px;
+}
+#input-output{
+  background-color: lightblue;
+  padding: 20px;
+  margin:5px;
+  border:2px solid green;
+  border-radius: 50px;
+}
