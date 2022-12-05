@@ -1,6 +1,6 @@
 /**
  * Author:    Daniel Dong, Noctis Wang
- * Created:   2022.11.22
+ * Created:   2022.11.29
  * License: Public Domain
  **/
  var buttonEl = document.getElementById('activate');
